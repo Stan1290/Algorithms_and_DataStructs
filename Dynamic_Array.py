@@ -1,11 +1,4 @@
 
-# coding: utf-8
-
-# # Dynamic Array
-#
-
-# In[ ]:
-
 
 import ctypes
 
